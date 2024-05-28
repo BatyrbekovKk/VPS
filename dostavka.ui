@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OrderDetailsWidget</class>
+ <widget class="QWidget" name="OrderDetailsWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Детали заказа</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QGroupBox" name="customerDetailsGroupBox">
+     <property name="title">
+      <string>Детали заказчика</string>
+     </property>
+     <layout class="QFormLayout" name="formLayout">
+      <item row="0" column="0">
+       <widget class="QLineEdit" name="customerNameLineEdit">
+        <property name="text">
+         <string>Иванов Иван Иванович</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLineEdit" name="customerAddressLineEdit">
+        <property name="text">
+         <string>г. Москва, ул. Пушкина, д.10, кв. 5</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="executorDetailsGroupBox">
+     <property name="title">
+      <string>Детали исполнителя</string>
+     </property>
+     <layout class="QFormLayout" name="formLayout_2">
+      <item row="0" column="0">
+       <widget class="QLineEdit" name="executorNameLineEdit">
+        <property name="text">
+         <string>Петров Петр Петрович</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLineEdit" name="executorAddressLineEdit">
+        <property name="text">
+         <string>г. Санкт-Петербург, ул. Ленина, д.20, оф. 15</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="orderAddressGroupBox">
+     <property name="title">
+      <string>Адрес заказа (пункт А)</string>
+     </property>
+     <layout class="QFormLayout" name="formLayout_3">
+      <item row="0" column="0">
+       <widget class="QLineEdit" name="orderAddressLineEdit">
+        <property name="text">
+         <string>г. Москва, ул. Лермонтова, д.5</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="deliveryAddressGroupBox">
+     <property name="title">
+      <string>Адрес доставки (пункт Б)</string>
+     </property>
+     <layout class="QFormLayout" name="formLayout_4">
+      <item row="0" column="0">
+       <widget class="QLineEdit" name="deliveryAddressLineEdit">
+        <property name="text">
+         <string>г. Москва, ул. Пушкина, д.10, кв. 5</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="vehicleDetailsGroupBox">
+     <property name="title">
+      <string>Детали транспортного средства</string>
+     </property>
+     <layout class="QFormLayout" name="formLayout_5">
+      <item row="0" column="0">
+       <widget class="QLineEdit" name="vehicleModelLineEdit">
+        <property name="text">
+         <string>Грузовик МАЗ</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLineEdit" name="vehiclePlateNumberLineEdit">
+        <property name="text">
+         <string>А123ВС</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLineEdit" name="payloadLineEdit">
+        <property name="text">
+         <string>5000 кг</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLineEdit" name="bodyTypeLineEdit">
+        <property name="text">
+         <string>Фургон</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QCheckBox" name="documentsCheckBox">
+        <property name="text">
+         <string>Документы на ТС исправны</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="additionalDetailsGroupBox">
+     <property name="title">
+      <string>Дополнительные детали</string>
+     </property>
+     <layout class="QFormLayout" name="formLayout_6">
+      <item row="0" column="0">
+       <widget class="QPushButton" name="waybillButton">
+        <property name="text">
+         <string>Путевой лист</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QPushButton" name="ttnButton">
+        <property name="text">
+         <string>ТТН</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QPushButton" name="moreDetailsButton">
+        <property name="text">
+         <string>Подробнее</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

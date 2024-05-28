@@ -1,0 +1,13 @@
+release/main.o
+release/customer_dashboard_widget.o
+release/mainwindow.o
+release/loginwidget.o
+release/registrationwidget.o
+release/roleselectionwidget.o
+release/server.o
+release/moc_mainwindow.o
+release/moc_customer_dashboard_widget.o
+release/moc_loginwidget.o
+release/moc_registrationwidget.o
+release/moc_roleselectionwidget.o
+release/moc_server.o

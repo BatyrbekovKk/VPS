@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QPushButton" name="orderButton">
+      <property name="text">
+       <string>Orders</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTableWidget" name="orderTable">
+      <column>
+       <property name="text">
+        <string>ID</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Product</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Quantity</string>
+       </property>
+      </column>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="vehicleButton">
+      <property name="text">
+       <string>Vehicles</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTableWidget" name="vehicleTable">
+      <column>
+       <property name="text">
+        <string>ID</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Model</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Year</string>
+       </property>
+      </column>
+     </widget>
+    </item>
+    <item>
+     <widget class="QGroupBox" name="vehicleDetailsGroupBox">
+      <title>Vehicle Details</title>
+      <layout class="QFormLayout" name="formLayout">
+       <item row="0" column="0">
+        <widget class="QLineEdit" name="stoLineEdit"/>
+       </item>
+       <item row="1" column="0">
+        <widget class="QLineEdit" name="driverLicenseLineEdit"/>
+       </item>
+       <item row="2" column="0">
+        <widget class="QLineEdit" name="osagoLineEdit"/>
+       </item>
+       <item row="3" column="0">
+        <widget class="QLineEdit" name="ttnLineEdit"/>
+       </item>
+       <item row="4" column="0">
+        <widget class="QLineEdit" name="waybillLineEdit"/>
+       </item>
+       <item row="0" column="1">
+        <widget class="QLineEdit" name="payloadLineEdit"/>
+       </item>
+       <item row="1" column="1">
+        <widget class="QLineEdit" name="volumeLineEdit"/>
+       </item>
+       <item row="2" column="1">
+        <widget class="QLineEdit" name="bodyTypeLineEdit"/>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
