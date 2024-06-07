@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T14:54:32.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GdpwtYscJAq2nur1Nhvs" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T08:54:37.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="N2sJZcSbmRJqk25T2nic" version="24.4.9" type="github">
   <diagram name="Страница — 1" id="6Fu15erCf7PdYgdU24q_">
-    <mxGraphModel dx="1936" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2532" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,109 +100,125 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8zF0WLEV0abbjN1hOJyf-30" value="Объем кузова" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="487.995" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="487.995" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EiC_GfCv2AF31KtDMHQT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8zF0WLEV0abbjN1hOJyf-32" target="EiC_GfCv2AF31KtDMHQT-2">
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8zF0WLEV0abbjN1hOJyf-32" target="EiC_GfCv2AF31KtDMHQT-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8zF0WLEV0abbjN1hOJyf-32" value="Класс груза" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="487.995" y="605" width="120" height="60" as="geometry" />
+          <mxGeometry x="487.995" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-2" target="EiC_GfCv2AF31KtDMHQT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="548.14" y="925" as="targetPoint" />
+            <mxPoint x="548.14" y="1050" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="705.14" y="755" />
-              <mxPoint x="705.14" y="925" />
+              <mxPoint x="705.1399999999999" y="880" />
+              <mxPoint x="705.1399999999999" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-2" value="условия проезда на дороге" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="695" width="216" height="120" as="geometry" />
+          <mxGeometry x="440" y="820" width="216" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-4" target="EiC_GfCv2AF31KtDMHQT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-4" value="проходимость ТС" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1270" width="216" height="120" as="geometry" />
+          <mxGeometry x="430" y="1689" width="216" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-5" target="EiC_GfCv2AF31KtDMHQT-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-5" value="габаритные ограничения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1540" width="216" height="120" as="geometry" />
+          <mxGeometry x="430" y="1959" width="216" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EiC_GfCv2AF31KtDMHQT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-6" target="EiC_GfCv2AF31KtDMHQT-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="548" y="990" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-6" target="EiC_GfCv2AF31KtDMHQT-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-6" value="определений условий" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.995" y="845" width="120" height="60" as="geometry" />
+          <mxGeometry x="487.995" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-8" target="EiC_GfCv2AF31KtDMHQT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-8" value="определени ТС с повышенной проходимостью" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.995" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="477.995" y="1849" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-11" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="656" y="725" width="40" height="30" as="geometry" />
+          <mxGeometry x="656" y="850" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545.14" y="1501" as="targetPoint" />
-            <mxPoint x="653.14" y="1331" as="sourcePoint" />
+            <mxPoint x="535.14" y="1920" as="targetPoint" />
+            <mxPoint x="643.14" y="1750" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="702.14" y="1331" />
-              <mxPoint x="702.14" y="1501" />
+              <mxPoint x="692.14" y="1750" />
+              <mxPoint x="692.14" y="1920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-15" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="656" y="1300" width="40" height="30" as="geometry" />
+          <mxGeometry x="646" y="1719" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-16" target="EiC_GfCv2AF31KtDMHQT-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="548.01" y="1935" as="targetPoint" />
+            <mxPoint x="538.01" y="2354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-16" value="Способ выгрузки" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488.01" y="1805" width="120" height="60" as="geometry" />
+          <mxGeometry x="478.01" y="2224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-20" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.01" y="1905" width="192" height="80" as="geometry" />
+          <mxGeometry x="442.01" y="2324" width="192" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-21" target="EiC_GfCv2AF31KtDMHQT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-21" value="определени ТС с повышенной проходимостью" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488.005" y="1685" width="120" height="60" as="geometry" />
+          <mxGeometry x="478.005" y="2104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="1776" as="targetPoint" />
-            <mxPoint x="673.14" y="1606" as="sourcePoint" />
+            <mxPoint x="540" y="2195" as="targetPoint" />
+            <mxPoint x="663.14" y="2025" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="722" y="1600" />
-              <mxPoint x="722" y="1776" />
+              <mxPoint x="712" y="2019" />
+              <mxPoint x="712" y="2195" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-25" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="661" y="1575" width="40" height="30" as="geometry" />
+          <mxGeometry x="651" y="1994" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-28" value="А" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507.99" y="960" width="80" height="80" as="geometry" />
+          <mxGeometry x="508" y="1161" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-29" target="EiC_GfCv2AF31KtDMHQT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EiC_GfCv2AF31KtDMHQT-29" value="А" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.01" y="1161" width="80" height="80" as="geometry" />
+          <mxGeometry x="498.01" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-32" target="EiC_GfCv2AF31KtDMHQT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-32" value="Год выпуска ТС" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="487.995" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-34" target="EiC_GfCv2AF31KtDMHQT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-34" value="Время погрузки и выгрузки" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="477.99" y="720" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiC_GfCv2AF31KtDMHQT-37" target="EiC_GfCv2AF31KtDMHQT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EiC_GfCv2AF31KtDMHQT-37" value="Время в пути" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.995" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
